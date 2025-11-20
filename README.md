@@ -113,11 +113,7 @@ Reach out if you’d like to collaborate or contribute.
 </a>
 
 
-<a href="https://instagram.com/mentesa.live" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:kolimohit9595@gmail.com">
+<a href="mailto:shivudeo@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -127,3 +123,7 @@ Reach out if you’d like to collaborate or contribute.
 
 ### 💬 Want to improve this project?
 Open an issue or start a discussion — PRs welcome ⚡
+
+
+<h3 align="center"> ᴄʀᴇᴅɪᴛ  <h3 align="center">
+<a href="https://github.com/Mayurkoli8"> <img src="https://img.shields.io/badge/KashDaYash-black?style=for-the-badge&logo=github" alt="Mayurkoli8" /> </a> </h3>
