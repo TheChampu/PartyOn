@@ -126,4 +126,4 @@ Open an issue or start a discussion — PRs welcome ⚡
 
 
 <h3 align="center"> ᴄʀᴇᴅɪᴛ  <h3 align="center">
-<a href="https://github.com/Mayurkoli8"> <img src="https://img.shields.io/badge/KashDaYash-black?style=for-the-badge&logo=github" alt="Mayurkoli8" /> </a> </h3>
+<a href="https://github.com/Mayurkoli8"> <img src="https://img.shields.io/badge/Mayurkoli-black?style=for-the-badge&logo=github" alt="Mayurkoli8" /> </a> </h3>
